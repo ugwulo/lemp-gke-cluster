@@ -17,7 +17,7 @@ resource "google_container_node_pool" "general" {
   # recommended to use large instances with small no of nodes
   node_config {
     preemptible  = false
-    machine_type = "e2-small"
+    machine_type = var.machine_type
 
     labels = {
       role = "general"
@@ -46,7 +46,7 @@ resource "google_container_node_pool" "spot" {
 
   node_config {
     preemptible  = true
-    machine_type = "e2-small"
+    machine_type = var.machine_type
 
     labels = {
       team = "devops"

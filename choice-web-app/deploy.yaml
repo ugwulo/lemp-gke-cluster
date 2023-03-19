@@ -35,29 +35,3 @@ spec:
   selector: 
     app: nginx
   type: LoadBalancer
-
-# ---
-# apiVersion: networking.k8s.io/v1
-# kind: Ingress
-# metadata:
-#   name: cv-ingress
-#   annotations:
-#     kubernetes.io/ingress.global-static-ip-name: nginxcv
-# spec:
-#   rules:
-#     - host: cv.ugwulo.me
-#       http:
-#         paths:
-#           - path: /
-#             backend:
-#               serviceName: nginx-svc
-#               servicePort: 80
-# ---
-# apiVersion: networking.gke.io/v1
-# kind: ManagedCertificate
-# metadata:
-#   name: managed-cert
-# spec:
-#   domains:
-#     - cv.ugwulo.me
-#     - altschool.ugwulo.me

@@ -30,6 +30,11 @@ live load balanced url for the sock shop microservice [altschool.ugwulo.me](http
 How to recreate this project on GCP
 </p>
 </h3>
+connecting to the cluster
+Install the new kubectl plugin 
+sudo apt-get install google-cloud-sdk-gke-gcloud-auth-plugin
+confirm installation
+gke-gcloud-auth-plugin --version
 
 Deploy Sock Shop after creating the cluster
 

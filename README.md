@@ -2,7 +2,7 @@
 SOCK SHOP MICROSERVICES APP
 </p>
 
-PLEASE TO THIS FOLDER FOR THE SECOND APP: [PORTFOLIO APP](https://github.com/ugwulo/lemp-gke-cluster/tree/main/choice-web-app)
+PLEASE REFER TO THIS FOLDER FOR THE SECOND APP: [PORTFOLIO APP](https://github.com/ugwulo/lemp-gke-cluster/tree/main/choice-web-app)
 
 </h3>
 Stacks:
@@ -71,4 +71,4 @@ kubectl get svc
 
 ![frontend](https://raw.githubusercontent.com/ugwulo/cdn-server/main/sock-shop-assets/sock-shop-deployment.jpg)
 
-PLEASE TO THIS FOLDER FOR THE SECOND APP: [PORTFOLIO APP](https://github.com/ugwulo/lemp-gke-cluster/tree/main/choice-web-app)
+PLEASE REFER TO THIS FOLDER FOR THE SECOND APP: [PORTFOLIO APP](https://github.com/ugwulo/lemp-gke-cluster/tree/main/choice-web-app)

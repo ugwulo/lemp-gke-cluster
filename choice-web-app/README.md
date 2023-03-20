@@ -1,10 +1,23 @@
-<h3><p align="center">
-AltSchool Cloud Engineering Final Exam Project
-</p>
 <p align="center">
-My Kubernetes Portfolio Site
+MY KUBERNETES PORTFOLIO WEBSITE
 </p>
 </h3>
-https://hub.docker.com/repositories/ugwulo
 
-10.52.6.62
+
+Stacks:
+<ul>
+    <li>GCP provider</li>
+    <li>Kubernetes (GKE)</li>
+    <li>Docker</li>
+    <li>Terraform as the configuration management tool.</li>
+</ul>
+ 
+### My Portfolio Image on [Docker hub](https://hub.docker.com/repositories/ugwulo)
+![docker hub image](https://raw.githubusercontent.com/ugwulo/cdn-server/main/cv-assets/cv-docker-image.jpg)
+
+## GKE Deployment
+![docker hub image](https://raw.githubusercontent.com/ugwulo/cdn-server/main/cv-assets/unable-to-get-lb-IP.jpg)
+
+## Portforwarding on localhost
+
+![docker hub image](https://raw.githubusercontent.com/ugwulo/cdn-server/main/cv-assets/cv-on-localhost.jpg)
